@@ -40,8 +40,8 @@ An intelligent resume analysis application that provides detailed feedback on re
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd AI-Resume-Grader
+git clone https://github.com/WilsonSoetomo/resume-analyzer.git
+cd resume-analyzer
 ```
 
 ### 2. Backend Setup
@@ -92,7 +92,7 @@ Frontend will be available at: http://localhost:5173
 ## 📁 Project Structure
 
 ```
-AI-Resume-Grader/
+resume-analyzer/
 ├── backend/
 │   ├── app/
 │   │   ├── api/
@@ -194,4 +194,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-**Note**: This application uses mock data when OpenAI API quota is exceeded, ensuring it remains functional for testing and demonstration purposes. 
+**Note**: This application uses mock data when OpenAI API quota is exceeded, ensuring it remains functional for testing and demonstration purposes.
